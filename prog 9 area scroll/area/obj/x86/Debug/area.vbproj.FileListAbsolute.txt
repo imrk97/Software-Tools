@@ -1,0 +1,21 @@
+C:\Users\win7\AppData\Local\Temporary Projects\area\bin\Debug\area.exe
+C:\Users\win7\AppData\Local\Temporary Projects\area\bin\Debug\area.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\area\bin\Debug\area.xml
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.vbproj.GenerateResource.Cache
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.exe
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.xml
+C:\Users\win7\AppData\Local\Temporary Projects\area\obj\x86\Debug\area.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\area\area\obj\x86\Debug\area.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\area\area\obj\x86\Debug\area.xml
+C:\Users\win7\Documents\Visual Studio 2010\Projects\area\area\obj\x86\Debug\area.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\bin\Debug\area.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\bin\Debug\area.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\bin\Debug\area.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.Form1.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.Resources.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\area\area\obj\x86\Debug\area.vbproj.GenerateResource.Cache

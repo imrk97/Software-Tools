@@ -1,0 +1,34 @@
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\bin\Debug\EMI.exe
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\bin\Debug\EMI.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\bin\Debug\EMI.xml
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.vbproj.GenerateResource.Cache
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.exe
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.xml
+C:\Users\win7\AppData\Local\Temporary Projects\EMI\obj\x86\Debug\EMI.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\EMI\EMI\obj\x86\Debug\EMI.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\EMI\EMI\obj\x86\Debug\EMI.xml
+C:\Users\win7\Documents\Visual Studio 2010\Projects\EMI\EMI\obj\x86\Debug\EMI.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.Form1.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.Resources.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\obj\x86\Debug\EMI.vbproj.GenerateResource.Cache
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\bin\Debug\EMI.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\bin\Debug\EMI.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\EMI\EMI\bin\Debug\EMI.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\bin\Debug\EMI.exe.manifest
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\bin\Debug\EMI.application
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\bin\Debug\EMI.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\bin\Debug\EMI.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\bin\Debug\EMI.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.Form1.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.Resources.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.vbproj.GenerateResource.Cache
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.exe.manifest
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.application
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 10\EMI\obj\x86\Debug\EMI.pdb

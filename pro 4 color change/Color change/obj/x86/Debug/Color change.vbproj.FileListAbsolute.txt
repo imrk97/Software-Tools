@@ -1,0 +1,18 @@
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\bin\Debug\Color change.exe
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\bin\Debug\Color change.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\bin\Debug\Color change.xml
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color_change.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color_change.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color change.vbproj.GenerateResource.Cache
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color change.exe
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color change.xml
+C:\Users\win7\AppData\Local\Temporary Projects\Color change\obj\x86\Debug\Color change.pdb
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color change.exe
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color change.xml
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color change.pdb
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\bin\Debug\Color change.exe
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\bin\Debug\Color change.pdb
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\bin\Debug\Color change.xml
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color_change.Form1.resources
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color_change.Resources.resources
+C:\Users\rohan.PC\Google Drive\College study\CS\programmes\visual basic\Color change\Color change\obj\x86\Debug\Color change.vbproj.GenerateResource.Cache

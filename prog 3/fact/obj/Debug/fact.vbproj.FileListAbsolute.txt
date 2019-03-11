@@ -1,0 +1,10 @@
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\bin\Debug\fact.exe.config
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.Form1.resources
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.Resources.resources
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.vbproj.GenerateResource.Cache
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\bin\Debug\fact.exe
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\bin\Debug\fact.pdb
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\bin\Debug\fact.xml
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.exe
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.xml
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\fact\obj\Debug\fact.pdb

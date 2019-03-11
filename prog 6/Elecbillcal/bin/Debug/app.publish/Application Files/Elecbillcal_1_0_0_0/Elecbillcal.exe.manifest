@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Elecbillcal.exe" version="1.0.0.0" publicKeyToken="a772aa7b0c1d7791" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Elecbillcal" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Elecbillcal.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Elecbillcal.exe" size="43008">
+      <assemblyIdentity name="Elecbillcal" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1YMI3ppsYVrf1jT6qVc9ZuEI4jY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=LAPTOP\rohan" issuerKeyHash="e9e688a8a0098669152a08b621f83f6bfc7ff716" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MGMHORLV0vc+PxWy6Riww/g7VrU=</DigestValue></Reference></SignedInfo><SignatureValue>frpAEzI7P19OaDGfJiEjy4wceO7Iqn0JlCkebnmGIcbaSf3iGRD3i47Mn0lLWUOKlv8l270hgGVGj7ftVr2mNqA6+nCbGvmfjb+/CrQnwUvNugFTWuDEDubq8DyXMkxXb74+3QoR3Rpm8P7C3998YuoFAxEtnDq8JPhi0oy6iwY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v+2pkiUVlvJ+JziPQ6cqldsX1BhgbgfsnOD8mjm/mQfFoixAoM5Pbisoh2iVUbaTGsK2uLlnKs9dwSusCOPwF6YCv/7pTTCXTy5SaMZpdhLP+hJ1W5zuTKlzZxeNj65NfO7Ph3RW20/ocSyklaUtOlYj+QNjs4Yw6Gm3JkwCpvE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b5563bf8c3b018e9b2153f3ef7d2d51239076330" Description="" Url=""><as:assemblyIdentity name="Elecbillcal.exe" version="1.0.0.0" publicKeyToken="a772aa7b0c1d7791" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP\rohan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CjiRdTmuiw2Cfl00PE+glYBChIY=</DigestValue></Reference></SignedInfo><SignatureValue>er963WAsLCWEvKl9qnrYzgsmp0Xo5fsyXtVRX4ZETtpVPWWrZ+obCCfzfrFY6WzjNw9oJxmM9DFh4jwG3b6+TrusPOL6EYb4XPnfZkWJvDr1pGoWW9oMxmbIxhD3wAoZbNe9jIDv91iE8PBet1jmmYANUDHiMF78rWqDiddpP/s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v+2pkiUVlvJ+JziPQ6cqldsX1BhgbgfsnOD8mjm/mQfFoixAoM5Pbisoh2iVUbaTGsK2uLlnKs9dwSusCOPwF6YCv/7pTTCXTy5SaMZpdhLP+hJ1W5zuTKlzZxeNj65NfO7Ph3RW20/ocSyklaUtOlYj+QNjs4Yw6Gm3JkwCpvE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQIHMOoDMhEKlGO4R9i2g+JjANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgATABBAFAAVABPAFAAXAByAG8AaABhAG4wHhcNMTgwNDE4MjA0MDIxWhcNMTkwNDE5MDI0MDIxWjAjMSEwHwYDVQQDHhgATABBAFAAVABPAFAAXAByAG8AaABhAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL/tqZIlFZbyfic4j0OnKpXbF9QYYG4H7Jzg/Jo5v5kHxaIsQKDOT24rKIdolVG2kxrCtri5ZyrPXcErrAjj8BemAr/+6U0wl08uUmjGaXYSz/oSdVuc7kypc2cXjY+uTXzuz4d0VttP6HEspJWlLTpWI/kDY7OGMOhptyZMAqbxAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAdjL2l+iVog1bMEDD3QKX7OEQUr4a+8xwQxp9laBsF+uCUzc3MG6vRpfmSkEVU7iauBqvsk1CL35AKe5VQ63LMaajf5hZAWG9mGgtg9EuWdJfd/z8YTZCj6g5053B8x8g1jtZFAGSjsEEZYdAx77/C5ouP6wqn5/WY4oDCErVRhk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

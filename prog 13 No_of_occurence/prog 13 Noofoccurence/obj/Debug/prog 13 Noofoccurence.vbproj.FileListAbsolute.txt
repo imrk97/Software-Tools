@@ -1,0 +1,22 @@
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog_13_Noofoccurence.Form1.resources
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog_13_Noofoccurence.Resources.resources
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.vbproj.GenerateResource.Cache
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.exe
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.pdb
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.xml
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.exe
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.xml
+C:\Users\rohan.PC\AppData\Local\Temporary Projects\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.exe
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.pdb
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.xml
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog_13_Noofoccurence.Form1.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog_13_Noofoccurence.Resources.resources
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.vbproj.GenerateResource.Cache
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.exe.manifest
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\bin\Debug\prog 13 Noofoccurence.application
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.exe.manifest
+C:\Users\rohan\Google Drive\College study\CS\programmes\visual basic\prog 13 No_of_occurence\prog 13 Noofoccurence\obj\Debug\prog 13 Noofoccurence.application
